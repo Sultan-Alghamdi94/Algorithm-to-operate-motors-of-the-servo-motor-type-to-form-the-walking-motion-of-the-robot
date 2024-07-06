@@ -1,0 +1,1 @@
+# Algorithm-to-operate-motors-of-the-servo-motor-type-to-form-the-walking-motion-of-the-robot
